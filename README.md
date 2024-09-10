@@ -8,3 +8,4 @@
 > I ate duck wings and they were really good. 
 
 *edit from tuesday 
+I worked as a videographer at a summer camp
