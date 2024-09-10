@@ -9,5 +9,5 @@
 
 *edit from tuesday 
 I worked as a videographer at a summer camp
-my other elective is film 
-hello
+- my other elective is film 
+- hello
