@@ -6,3 +6,5 @@
 - create my own video game
 - gain practical skills that I can apply
 > I ate duck wings and they were really good. 
+
+*edit from tuesday 
