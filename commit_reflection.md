@@ -7,3 +7,4 @@
 
 ### How might I embed this process, or something similar in other places of my life?
 - I like to make shortfilms, so I spent a lot of time on Premiere Pro editing. It often gets very confusing when I make edits and then forget later on what they were because I can't see my editing history. This is so frustrating. Having this feature would be so useful on that software, especially if I can go back to a specific edit from my history and start again if I disliked where my project was going. 
+<img width="1352" alt="Screenshot 2024-09-10 at 9 23 50 AM" src="https://github.com/user-attachments/assets/dd6fb5d9-bd07-41a1-9733-9010f6a0a1aa">
